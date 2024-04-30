@@ -1,0 +1,68 @@
+nav{
+  display: flex;  
+  background-color: rgb(7, 77, 77);
+  gap: 20px;
+  border-radius: 8px;
+  width: 97vw;
+  padding: 1%;
+  justify-content: space-around;
+
+}
+
+li{
+  color: white;
+  list-style: none;
+}
+
+a li  {
+  align-items: center;
+  text-align: right;
+  font-size: 20px;
+  
+
+}
+
+.red{
+  background:aquamarine;
+  color: rgb(7, 77, 77);
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  border-radius: 5px;
+
+}
+
+.terraform{
+ text-align: center;
+ margin-top: 40px;
+ font-size: 20px;
+}
+
+.basic-button{
+  background:none;
+  color: aquamarine;
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+}
+
+.paragraph{
+  background-color: aquamarine;
+  text-align: center;
+ margin-top: 40px;
+ font-size: 20px;
+ width: auto;
+ height: 50%;
+}
+
+
+aside{
+  /* display: flex;   */
+  background-color: rgb(7, 77, 77);
+  gap: 20px;
+  border-radius: 8px;
+  width: 15vw;
+  padding: 1%;
+  /* justify-content: space-around; */
+  margin-top: none;
+}
